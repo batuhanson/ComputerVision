@@ -8,6 +8,7 @@
   "packageType": "Dll",
   "projectUrl": "https://github.com/monkeypaste/ComputerVision",
   "packageUrl": "https://github.com/monkeypaste/ComputerVision/releases/download/v1.0.0/ComputerVision.zip",
-  "iconUri": "https://github.com/monkeypaste/ComputerVision/raw/main/icon.png",
+  "readmeUrl": "https://github.com/monkeypaste/ComputerVision/blob/060f32947c0d73808f56df6773555b28eefba272/README.md",
+  "iconUri": "https://github.com/monkeypaste/ComputerVision/blob/060f32947c0d73808f56df6773555b28eefba272/icon.png",
   "tags": "Computer Vision,Image Detection,Image Processing,Azure,Microsoft,Annotation,Classification"
 }
